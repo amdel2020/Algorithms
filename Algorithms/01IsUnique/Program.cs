@@ -55,6 +55,7 @@ namespace _01IsUnique
         // 8. As you scan each characters, set that value(equal to some index) true in boolean array.
         // 9. If anytime, any value in the boolean array is true, means duplicate found.
         // 10. Implementation is very easy.
+        // 11. O(n)
         private static bool IsUnique_BetterWay(string input)
         {
             throw new NotImplementedException();
