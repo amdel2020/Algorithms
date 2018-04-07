@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\bin\Debug\01IsUnique.exe.config
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\bin\Debug\01IsUnique.exe
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\bin\Debug\01IsUnique.pdb
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\obj\Debug\01IsUnique.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\obj\Debug\01IsUnique.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\obj\Debug\01IsUnique.exe
+C:\coding\algo\Algorithms\Algorithms\01IsUnique\obj\Debug\01IsUnique.pdb
