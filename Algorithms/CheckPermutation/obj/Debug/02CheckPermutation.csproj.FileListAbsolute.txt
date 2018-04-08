@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\bin\Debug\CheckPermutation.exe.config
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\bin\Debug\CheckPermutation.exe
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\bin\Debug\CheckPermutation.pdb
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\obj\Debug\02CheckPermutation.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\obj\Debug\02CheckPermutation.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\obj\Debug\CheckPermutation.exe
+C:\coding\algo\Algorithms\Algorithms\CheckPermutation\obj\Debug\CheckPermutation.pdb

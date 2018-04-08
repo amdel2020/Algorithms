@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\bin\Debug\MinimumInStackInConstantTime.exe.config
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\bin\Debug\MinimumInStackInConstantTime.exe
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\bin\Debug\MinimumInStackInConstantTime.pdb
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\obj\Debug\MinimumInStackInConstantTime.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\obj\Debug\MinimumInStackInConstantTime.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\obj\Debug\MinimumInStackInConstantTime.exe
+C:\coding\algo\Algorithms\Algorithms\MinimumInStackInConstantTime\obj\Debug\MinimumInStackInConstantTime.pdb

@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\obj\Debug\InfixToPostfix.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\obj\Debug\InfixToPostfix.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+C:\coding\algo\Algorithms\Algorithms\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
