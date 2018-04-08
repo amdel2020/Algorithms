@@ -105,7 +105,6 @@ namespace MinimumInStackInConstantTime
 
         public int Min()
         {
-
             return minStack.Peek();
         }
     }

@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\bin\Debug\ReverseQueue.exe.config
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\bin\Debug\ReverseQueue.exe
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\bin\Debug\ReverseQueue.pdb
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\obj\Debug\ReverseQueue.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\obj\Debug\ReverseQueue.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\obj\Debug\ReverseQueue.exe
+C:\coding\algo\Algorithms\Algorithms\ReverseQueue\obj\Debug\ReverseQueue.pdb
