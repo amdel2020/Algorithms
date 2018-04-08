@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArraysAndStrings", "ArraysA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01IsUnique", "01IsUnique\01IsUnique.csproj", "{DCD6195A-B21C-4A6B-A6CE-7AA2AD2A070D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02CheckPermutation", "CheckPermutation\02CheckPermutation.csproj", "{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{DCD6195A-B21C-4A6B-A6CE-7AA2AD2A070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCD6195A-B21C-4A6B-A6CE-7AA2AD2A070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCD6195A-B21C-4A6B-A6CE-7AA2AD2A070D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DCD6195A-B21C-4A6B-A6CE-7AA2AD2A070D} = {3AAE8EF0-5EAD-4153-8088-8C83E00C7CBB}
+		{CEF00EE2-CDE2-4A16-AF5C-43A43F4ECB72} = {3AAE8EF0-5EAD-4153-8088-8C83E00C7CBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {249BB44D-299B-4453-8D31-488ED9A52663}
