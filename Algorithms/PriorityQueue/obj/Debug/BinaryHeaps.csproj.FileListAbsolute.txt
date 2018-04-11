@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\bin\Debug\PriorityQueue.exe.config
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\bin\Debug\PriorityQueue.exe
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\obj\Debug\BinaryHeaps.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\obj\Debug\BinaryHeaps.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\obj\Debug\PriorityQueue.exe
+C:\coding\algo\Algorithms\Algorithms\PriorityQueue\obj\Debug\PriorityQueue.pdb

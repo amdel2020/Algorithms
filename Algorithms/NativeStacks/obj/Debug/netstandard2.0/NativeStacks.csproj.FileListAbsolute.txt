@@ -1,0 +1,9 @@
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\bin\Debug\netstandard2.0\NativeStacks.deps.json
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\bin\Debug\netstandard2.0\NativeStacks.dll
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\bin\Debug\netstandard2.0\NativeStacks.pdb
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.AssemblyInfoInputs.cache
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.AssemblyInfo.cs
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.dll
+C:\coding\algo\Algorithms\Algorithms\NativeStacks\obj\Debug\netstandard2.0\NativeStacks.pdb

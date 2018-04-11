@@ -17,13 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumInStackInConstantTim
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NativeDataStructures", "NativeDataStructures", "{436ADA13-A256-4697-B75F-D68B2B3045C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeStacks", "NativeStacks\NativeStacks.csproj", "{A2976FDB-4623-40E7-B8B1-A15221CE2D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NativeStacks", "NativeStacks\NativeStacks.csproj", "{A2976FDB-4623-40E7-B8B1-A15221CE2D30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7ED9108C-4145-44FB-B5B1-B576AF0A86A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queues", "Queues", "{3B92D17F-EC40-44D9-826E-BA759BF5C542}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseQueue", "ReverseQueue\ReverseQueue.csproj", "{C14617C2-4B5C-42B9-825D-4BCA3AFC13BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryHeaps", "PriorityQueue\BinaryHeaps.csproj", "{75157078-8104-4A5E-84A3-E6E4BC621602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{C14617C2-4B5C-42B9-825D-4BCA3AFC13BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14617C2-4B5C-42B9-825D-4BCA3AFC13BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14617C2-4B5C-42B9-825D-4BCA3AFC13BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75157078-8104-4A5E-84A3-E6E4BC621602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75157078-8104-4A5E-84A3-E6E4BC621602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75157078-8104-4A5E-84A3-E6E4BC621602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75157078-8104-4A5E-84A3-E6E4BC621602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

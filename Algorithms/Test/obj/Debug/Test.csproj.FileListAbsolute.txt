@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\Test\bin\Debug\Test.exe.config
+C:\coding\algo\Algorithms\Algorithms\Test\bin\Debug\Test.exe
+C:\coding\algo\Algorithms\Algorithms\Test\bin\Debug\Test.pdb
+C:\coding\algo\Algorithms\Algorithms\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\Test\obj\Debug\Test.exe
+C:\coding\algo\Algorithms\Algorithms\Test\obj\Debug\Test.pdb
