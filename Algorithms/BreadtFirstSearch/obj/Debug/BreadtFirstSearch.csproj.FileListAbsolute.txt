@@ -1,0 +1,9 @@
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\BreadtFirstSearch.exe.config
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\BreadtFirstSearch.exe
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\BreadtFirstSearch.pdb
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\UndirectedGraph.exe
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\UndirectedGraph.pdb
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\UndirectedGraph.exe.config
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.exe
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.pdb

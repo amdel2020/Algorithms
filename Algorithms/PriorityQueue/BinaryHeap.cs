@@ -2,7 +2,7 @@
 
 namespace BinaryHeaps
 {
-    public class BinaryHeap<T> : IBinaryHeap<T> where T: System.IComparable<T>
+    public class BinaryHeap<T> : IBinaryHeap<T> where T: IComparable<T>
     {
         private T[] elements;
 

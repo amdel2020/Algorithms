@@ -1,0 +1,10 @@
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\UndirectedGraph.exe
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\UndirectedGraph.pdb
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\bin\Debug\UndirectedGraph.exe.config
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+C:\coding\algo\Algorithms\Algorithms\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb
