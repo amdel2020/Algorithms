@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\Quicksort\bin\Debug\Quicksort.exe.config
+C:\coding\algo\Algorithms\Algorithms\Quicksort\bin\Debug\Quicksort.exe
+C:\coding\algo\Algorithms\Algorithms\Quicksort\bin\Debug\Quicksort.pdb
+C:\coding\algo\Algorithms\Algorithms\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\Quicksort\obj\Debug\Quicksort.exe
+C:\coding\algo\Algorithms\Algorithms\Quicksort\obj\Debug\Quicksort.pdb

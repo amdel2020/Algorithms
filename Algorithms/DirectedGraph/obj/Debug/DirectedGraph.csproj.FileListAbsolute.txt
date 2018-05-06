@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\bin\Debug\DirectedGraph.exe.config
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\bin\Debug\DirectedGraph.exe
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\bin\Debug\DirectedGraph.pdb
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\obj\Debug\DirectedGraph.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\obj\Debug\DirectedGraph.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\obj\Debug\DirectedGraph.exe
+C:\coding\algo\Algorithms\Algorithms\DirectedGraph\obj\Debug\DirectedGraph.pdb
