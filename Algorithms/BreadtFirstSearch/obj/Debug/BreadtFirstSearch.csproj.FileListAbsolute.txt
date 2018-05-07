@@ -7,3 +7,4 @@ C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\bin\Debug\UndirectedGraph
 C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.csproj.CoreCompileInputs.cache
 C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.exe
 C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.pdb
+C:\coding\algo\Algorithms\Algorithms\BreadtFirstSearch\obj\Debug\BreadtFirstSearch.csprojResolveAssemblyReference.cache

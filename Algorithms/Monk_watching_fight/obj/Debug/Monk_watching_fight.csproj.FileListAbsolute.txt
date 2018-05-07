@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\bin\Debug\Monk_watching_fight.exe.config
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\bin\Debug\Monk_watching_fight.exe
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\bin\Debug\Monk_watching_fight.pdb
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\obj\Debug\Monk_watching_fight.csprojResolveAssemblyReference.cache
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\obj\Debug\Monk_watching_fight.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\obj\Debug\Monk_watching_fight.exe
+C:\coding\algo\Algorithms\Algorithms\Monk_watching_fight\obj\Debug\Monk_watching_fight.pdb

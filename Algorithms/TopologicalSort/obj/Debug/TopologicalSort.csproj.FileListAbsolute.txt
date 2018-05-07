@@ -1,0 +1,6 @@
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\bin\Debug\TopologicalSort.exe.config
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\bin\Debug\TopologicalSort.exe
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\bin\Debug\TopologicalSort.pdb
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\obj\Debug\TopologicalSort.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\obj\Debug\TopologicalSort.exe
+C:\coding\algo\Algorithms\Algorithms\TopologicalSort\obj\Debug\TopologicalSort.pdb

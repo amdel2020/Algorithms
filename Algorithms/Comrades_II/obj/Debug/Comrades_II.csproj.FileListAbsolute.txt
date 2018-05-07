@@ -1,0 +1,7 @@
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\bin\Debug\Comrades_II.exe.config
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\bin\Debug\Comrades_II.exe
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\bin\Debug\Comrades_II.pdb
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\obj\Debug\Comrades_II.csproj.CoreCompileInputs.cache
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\obj\Debug\Comrades_II.exe
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\obj\Debug\Comrades_II.pdb
+C:\coding\algo\Algorithms\Algorithms\Comrades_II\obj\Debug\Comrades_II.csprojResolveAssemblyReference.cache
