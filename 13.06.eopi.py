@@ -1,31 +1,16 @@
-from collections import namedtuple, Counter
+from collections import defaultdict, Counter
 
-Subarray = namedtuple('Subarray', ('start', 'end'))
+para = "My paramount object in this struggle is to save the Union and is not either to save or to destroy slavery If I could save the Union without freeing any slave I would do it and if I could save it by freeing all the slaves I would do it and if I could save it by freeing some and leaving others alone I would also do that".lower().split()
+keywords = ["union", "save"]
 
-def smallest_subarray(para, keywords):
-    keywords_to_cover = Counter(keywords)
-    result = Subarray(-1, -1)
-    remaining_to_cover = len(keywords)
-    left = 0
-    para = para.split()
 
-    for right, p in enumerate(para):
-        if p in keywords:
-            keywords_to_cover[p] -= 1
-            if keywords_to_cover[p] >= 0:
-                remaining_to_cover -= 1
-        
-        while remaining_to_cover == 0:
-            if result == (-1, -1) or right - left < result[1] - result[0]:
-                result = (left, right)
-            pl = para[left]
-            if pl in keywords:
-                keywords_to_cover[pl] += 1
-                if keywords_to_cover[pl] >= 0:
-                    remaining_to_cover -= 1
-            left += 1
-    return result
+def smallest_covering_subarray(paragraph, keywords):
+    key_table = Counter(keywords)
+    idx = 0
 
-para = "My paramaount object in this struggle is to Save the Union and is not either to save or to destroy slavery"
-keywords = ["Union", "Save"]
-print(smallest_subarray(para, keywords))
+    for i, s in enumerate(paragraph):
+        if s in keywords:
+            key_table[s] -= 1
+
+
+print(smallest_covering_subarray(para, keywords))
